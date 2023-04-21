@@ -1,0 +1,17 @@
+{
+    "name": "lindabalode/bank-api",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "lindabalode",
+            "email": "balode.lindaa@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.5"
+    }
+}
